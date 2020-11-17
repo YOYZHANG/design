@@ -1,9 +1,9 @@
 
 Thinking(Nov)
-0.  who is manager? how to communicate two-way?
+0.who is manager? how to communicate two-way?
 1.event need to managed in global.
 2.retry is minority.
 3.to developer:  api should be applyed immediately.
 4.to developer: avoid bring into unnessary concept.
 5.sometimes global is necessary.
-6.  Singleton or not
+6.Singleton or not
