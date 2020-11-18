@@ -7,3 +7,9 @@ Thinking(Nov)
 4.to developer: avoid bring into unnessary concept.
 5.sometimes global is necessary.
 6.Singleton or not
+
+7. A BIG QUESTION: HOW TO ISOLATE METHODS OF DEVELOPERS AND CODERS?
+- Random attrName
+- symbol
+- 闭包
+
